@@ -1,0 +1,3 @@
+### COMPARING THE BEHAVIOR OF COMMODITIES IN THE CRISES OF 2008 AND 2020
+
+Aqui iremos analisar o comportamento das commodities primeiramente durante a crise causada pelo COVID-19, onde pretendemos identificar as commodites que mais valorizaram ou desvalorizaram no período e suas causas. logo após iremos realizar a mesma análise para o a crise do subprime em 2008. Finalmente iremos analisar o período completo, de janeiro de 2008 até dezembro de 2020 e tentar verificar as commodities que mais se valorizaram.
